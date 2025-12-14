@@ -1,0 +1,12 @@
+public enum PopupNames
+{
+    SETTINGS,
+    DAILY_REWARD,
+    GIFT,
+    LUCKY_SPIN_WHEEL,
+    FREECASH_SOCIAL,
+    SHARE_REWARD,
+    STORE,
+    REWARD_COLLECTOR,
+    RATE_US
+}

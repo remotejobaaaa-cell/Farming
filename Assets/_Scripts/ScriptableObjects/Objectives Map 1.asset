@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7c2f499ebbbbac4c91ccee143c0591d, type: 3}
+  m_Name: Objectives Map 1
+  m_EditorClassIdentifier: 
+  objectives:
+  - Introduction to farmer's life. There is a ton of work to do. However, first of
+    all, we want to seed the field for wheat.
+  - Take your watermelon and tomatoes to vegetable market to sell all.
+  - Bring this harvester to the fuel station and park it at your carport.
+  - Procure the wheat field the gather it in your harvester.
+  - Milk your cows. and sell them to the neighbor's house.
+  - Deliver the cow milk to neighbour's house.
+  - Gather the wheat from harvester to pickup truck then go to the market to sell
+    it.
+  - Cut the tree and Make it into piles.
+  - Convey tree heap to the Caister at his homestead.
+  - Gather all the eggs laid by hen scattered all across the house.
+  - Caister calls you to convey eggs to him at his friend's house.
+  - One of your cows is not feeling good so get a specialist quickly.
+  - Spray immunization on your field to try not to get tainted.
+  - Wheat gets currently developed so harvest them and gather them.
+  - Gather some watermelon before going to the market for wholesale.
+  - Take your watermelon and tomatoes to vegetable market to sell all.
+  - At the front yard in the field tomatoes are seen developed.
+  - Deliver all of vegetables to nearest market.
+  - Take out the honey from the colony of bees and sell it to a friend's the area.
+  - At the front yard in the field Corn is seen developed and sound. Go to the yard
+    and pluck out Corn.
+  - Take your drone and drop all of items to designated destination.
+  - Take your pickup truck go to the animals market and get one cow then, at that
+    point, convey it to your house.

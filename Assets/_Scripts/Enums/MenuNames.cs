@@ -1,0 +1,8 @@
+public enum MenuNames
+{
+    MAIN_MENU,
+    FARMER_SELECTION_MENU,
+    MAP_SELECTION,
+    DAILY_REWARD,
+    LEVEL_SELECTION
+}
